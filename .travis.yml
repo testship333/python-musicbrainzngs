@@ -12,3 +12,4 @@ install: python setup.py build
 script: python setup.py test
 
 parallelized_test: true
+archive: true
